@@ -2,7 +2,7 @@ import os
 import csv
 
 os.chdir(os.path.dirname(__file__)) #changed directory to source of this main.py file  
-csvpath = os.path.join('..', '..', 'PyPoll', 'Resources', 'election_data.csv')
+csvpath = os.path.join( '..', 'Resources', 'election_data.csv')
 
 #print(csvpath) #WORKS
 with open(csvpath, newline="") as csvfile:
