@@ -5,7 +5,9 @@ This python script analyzes the election results from the excel data sheet in th
 
 ### Getting Started:
 
-Clone the repository from Github to get started.
+1.	Clone the repository from Github to get started.
+2.	Open the pypoll.py file in the PyPoll folder to view and use the script which analyzes the polling data in the excel Resources folder and outputs a summary text file. 
+
 
 ### Technology Used:
 -Python
